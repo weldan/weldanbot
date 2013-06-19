@@ -5,9 +5,13 @@ A basic IRC bot
 
 accept commands:
 =================
+
 !sayhi - will respond hi
+
 !uptime - will show system uptime
+
 !uname - will show uname 
+
 !quit - will quit 
 
 Resources:
